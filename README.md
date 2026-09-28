@@ -11,7 +11,7 @@ VibeTerm transforms a fresh Ubuntu terminal into a modern developer workspace wi
 ## ✨ Preview
 
 <p align="center">
-  <img src="screenshots/terminal.png" alt="VibeTerm Preview" width="900">
+  <img src="https://github.com/xor-1/vibe-term/blob/main/Vibe-Term-Preview.png" alt="VibeTerm Preview" width="900">
 </p>
 
 ---
