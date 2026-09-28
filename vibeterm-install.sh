@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 #
 # ✦ VibeTerm — Premium Powerlevel10k Ubuntu Terminal
-# https://github.com/YOUR_USERNAME/vibeterm
+# https://github.com/xor-1/vibe-term
 #
 # Installs and configures:
 #   • Zsh + Oh My Zsh
